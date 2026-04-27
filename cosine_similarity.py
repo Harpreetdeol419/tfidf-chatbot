@@ -18,7 +18,7 @@ def NumSim(VecOne, VecSec): # compute cosine similarity between two vectors
 	return  result
 	
 def test(): # inn
-	vocab = [ # kept two sentences cuz NumSim accespts two parameters only
+	vocab = [ # kept two sentences cuz NumSim accepts two parameters only
 	"hi bro",
 	"bye bro",
 	]
