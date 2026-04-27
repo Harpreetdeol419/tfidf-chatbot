@@ -1,13 +1,17 @@
 # TF-IDF Chatbot
 
-A simple chatbot made using TF-IDF and cosine similarity.
+A learning project exploring how chatbots work using TF-IDF and cosine similarity.
 
-## What it does
+## Features
 
-- Takes user input
-- Compares it with saved memory sentences
-- Returns the most similar one
-- Says "I do not know yet" if nothing matches
+- Text similarity using TF-IDF
+- Manual cosine similarity with NumPy
+- Simple chatbot based on sentence matching
+
+## Files
+
+- cosine_similarity.py → demonstrates vector similarity
+- chatbot.py → basic chatbot implementation
 
 ## Example
 
