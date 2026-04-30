@@ -12,7 +12,7 @@ A learning project exploring how chatbots work using TF-IDF and cosine similarit
 
 - cosine_similarity.py → demonstrates vector similarity
 - chatbot.py → basic chatbot implementation
-
+- FAQ.py → a simple FAQ sytem
 ## Example
 
 user: what do I love?  
